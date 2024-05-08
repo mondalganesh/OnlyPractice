@@ -8,5 +8,6 @@ body {
   @media (min-width: 512px) {
       body {
           font-size: 20px;
+          background-color: aqua;
       }
   }
